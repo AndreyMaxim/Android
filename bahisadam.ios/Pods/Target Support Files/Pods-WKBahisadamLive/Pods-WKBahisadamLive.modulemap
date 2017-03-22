@@ -1,6 +1,0 @@
-framework module Pods_WKBahisadamLive {
-  umbrella header "Pods-WKBahisadamLive-umbrella.h"
-
-  export *
-  module * { export * }
-}
